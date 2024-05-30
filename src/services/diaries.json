@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "date": "2024-05-27",
+      "weather": "sunny",
+      "visibility": "great",
+      "comment": "Clear sky with no clouds."
+    },
+    {
+      "id": 2,
+      "date": "2024-05-28",
+      "weather": "cloudy",
+      "visibility": "good",
+      "comment": "Overcast with some breaks in the clouds."
+    },
+    {
+      "id": 3,
+      "date": "2024-05-29",
+      "weather": "windy",
+      "visibility": "ok",
+      "comment": "Steady rain throughout the day."
+    },
+    {
+      "id": 4,
+      "date": "2024-05-30",
+      "weather": "rainy",
+      "visibility": "poor",
+      "comment": "Dense fog in the morning, clearing by afternoon."
+    },
+    {
+      "id": 5,
+      "date": "2024-05-31",
+      "weather": "stormy",
+      "visibility": "poor",
+      "comment": "Strong winds with occasional gusts."
+    }
+]
+  
